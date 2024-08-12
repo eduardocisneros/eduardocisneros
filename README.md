@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=30&duration=3000&pause=000&color=0CF728&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile%F0%9F%A4%99;Frontend+development%F0%9F%98%8E" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=000&color=20FF34&width=300&lines=Welcome+to+my+profile%F0%9F%A4%99;Frontend+development%F0%9F%98%8E" alt="Typing SVG" /></a>
 </p>
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
